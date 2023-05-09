@@ -1,4 +1,4 @@
-<h1 align="center">Agroic - Reforming Agri Living <br /></h1>  
+<h1 align="center">CropConnect <br /></h1>  
 <p align="center">
   <img src="" width="500" >
 </p>
